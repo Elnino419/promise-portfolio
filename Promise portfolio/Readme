@@ -1,0 +1,43 @@
+# Promise Portfolio
+
+## Overview
+Promise Portfolio is a personal portfolio website showcasing the skills, projects, and experience of Gii Promise, a frontend developer and designer. The website is crafted with HTML, CSS, and JavaScript, featuring responsive design and interactive elements.
+
+## Features
+- **Navigation Bar**: Fixed navigation bar with links to different sections of the portfolio.
+- **Hero Section**: Introduction with a call-to-action button.
+- **About Me**: Detailed information about Gii Promise, including skills and goals.
+- **Projects**: Showcase of completed projects with live demo links and source code.
+- **Skills**: Progress bars representing proficiency in various technologies.
+- **Experience**: Work experience with detailed descriptions.
+- **Contact Form**: Functional contact form with validation.
+- **Footer**: Dynamic footer displaying the current date.
+
+## Technologies Used
+- **HTML5**: Structure and content.
+- **CSS3**: Styling and responsive design.
+- **JavaScript**: Interactivity and form validation.
+
+## Project Structure
+
+## How to Run
+1. Clone the repository or download the files.
+2. Open `index.html` in a web browser to view the portfolio.
+
+## Projects
+### Age Counter App
+- **Description**: Calculates the age based on the date of birth.
+- **Technologies**: HTML, CSS, JavaScript.
+- **Links**: [Live Demo](age.html) | [Source Code](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main/projects/age)
+
+### Counter App
+- **Description**: A simple counter with increase, decrease, and reset functionality.
+- **Technologies**: HTML, CSS, JavaScript.
+- **Links**: [Live Demo](counter.html) | [Source Code](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main/projects/counter)
+
+## Contact
+- **Email**: [promisegii98@gmail.com](mailto:promisegii98@gmail.com)
+- **Location**: Lagos, Nigeria
+
+## License
+This project is licensed under the MIT License.
